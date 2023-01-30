@@ -18,4 +18,4 @@ Here is the dataset used in the project you can dowload de spam.csv file in this
 
 ## Link for this App
 
-https://math-muniz-yt-dash-dashboard-8vczqt.streamlit.app/
+https://math-muniz-sms-spam-classifier-app-fw34ri.streamlit.app/
