@@ -7,8 +7,9 @@ This project is an implementation of a SMS Spam Classifier using Python and the 
 ## Technology Used
 
 - Python
-* NLTK - Natural Language Toolkit
-* Scikit-Learn - Machine Learning library for Python
+1. NLTK - Natural Language Toolkit
+2. Scikit-Learn - Machine Learning library for Python
+
 - Streamlit - Open-source app framework for Machine Learning and Data Science
 
 ## Dataset Used
